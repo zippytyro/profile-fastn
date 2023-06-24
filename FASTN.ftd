@@ -3,6 +3,9 @@
 -- fastn.package: zippytyro.github.io/profile-fastn
 favicon: /-/zippytyro.github.io/profile-fastn/favicon.ico
 
+-- fastn.dependency: fastn-community.github.io/opensans-typography as opensans
+
+-- fastn.package: card
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
@@ -11,8 +14,13 @@ favicon: /-/zippytyro.github.io/profile-fastn/favicon.ico
 -- fastn.auto-import: zippytyro.github.io/profile-fastn/assets
 -- fastn.auto-import: doc-site
 
+-- fastn.dependency: fastn-community.github.io/opensans-typography as opensans
+
+-- fastn.package: card
+
 -- fastn.sitemap:
 
 # Home: index.html
 
 - Right Sidebar Sample: /sidebar/
+
